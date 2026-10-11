@@ -11,7 +11,9 @@ A cross-platform login application built with .NET MAUI.
 
 ## Screenshots
 
-_will Add screenshots here later._
+### Login Screen
+
+Screenshots/login-screen.jpg
 
 ## Getting Started
 
