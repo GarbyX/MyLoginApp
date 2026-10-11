@@ -13,7 +13,7 @@ A cross-platform login application built with .NET MAUI.
 
 ### Login Screen
 
-Screenshots/login-screen.jpg
+![Login Screen](Screenshots/login-screen.jpg)
 
 ## Getting Started
 
